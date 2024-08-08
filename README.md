@@ -38,7 +38,7 @@
 
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/TuuFlxt.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/TuuFlxt.png">
 <br />
 <br />
 <br />
@@ -49,7 +49,7 @@
 
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/RKkaHrt.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/RKkaHrt.png">
 <br />
 <br />
 <br />
@@ -60,7 +60,7 @@
 3
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/IbuzUqA.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/IbuzUqA.png">
 <br />
 <br />
 <br />
@@ -73,7 +73,7 @@
 4
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/CXCXzxO.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/CXCXzxO.png">
 <br />
 <br />
 <br />
@@ -84,7 +84,7 @@
 5
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/3kfRRFX.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/3kfRRFX.png">
 <br />
 <br />
 <br />
@@ -94,7 +94,7 @@
 6
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/iqFVfar.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/iqFVfar.png">
 <br />
 <br />
 <br />
@@ -104,7 +104,7 @@
 7
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/bechinE.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/bechinE.png">
 <br />
 <br />
 <br />
@@ -115,7 +115,7 @@
 8
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/RpmtjDV.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/RpmtjDV.png">
 <br />
 <br />
 <br />
@@ -125,7 +125,7 @@
 9
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/CAVadbX.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/CAVadbX.png">
 <br />
 <br />
 <br />
@@ -136,7 +136,7 @@
 10
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/543H3Rm.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/543H3Rm.png">
 <br />
 <br />
 <br />
@@ -146,7 +146,7 @@
 11
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/a0l6goP.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/a0l6goP.png">
 <br />
 <br />
 <br />
@@ -157,7 +157,7 @@
 12
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/CsRomkV.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/CsRomkV.png">
 <br />
 <br />
 <br />
@@ -167,7 +167,7 @@
 13
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/1rVPuI2.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/1rVPuI2.png">
 <br />
 <br />
 <br />
@@ -177,7 +177,7 @@
 14
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/5kwVmfM.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/5kwVmfM.png">
 <br />
 <br />
 <br />
@@ -187,7 +187,7 @@
 15
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/gBn0ECz.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/gBn0ECz.png">
 <br />
 <br />
 <br />
@@ -200,7 +200,7 @@
 16
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/BDl0CoK.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/BDl0CoK.png">
 <br />
 <br />
 <br />
@@ -210,7 +210,7 @@
 17
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/5pVt6cJ.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/5pVt6cJ.png">
 <br />
 <br />
 <br />
@@ -221,7 +221,7 @@
 18
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/31LEZDn.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/31LEZDn.png">
 <br />
 <br />
 <br />
@@ -232,7 +232,7 @@
 19
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/TsoJfsU.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/TsoJfsU.png">
 <br />
 <br />
 <br />
@@ -244,7 +244,7 @@
 20
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/F14h9Au.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/F14h9Au.png">
 <br />
 <br />
 <br />
@@ -254,7 +254,7 @@
 21
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/HGbQBN3.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/HGbQBN3.png">
 <br />
 <br />
 <br />
@@ -268,7 +268,7 @@
 22
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/Wbj9MYv.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/Wbj9MYv.png">
 <br />
 <br />
 <br />
@@ -282,7 +282,7 @@
 23
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/lwDNBip.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/lwDNBip.png">
 <br />
 <br />
 <br />
@@ -296,7 +296,7 @@
 24
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/f56vsuO.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/f56vsuO.png">
 <br />
 <br />
 <br />
@@ -310,7 +310,7 @@
 25
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/juzItA3.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/juzItA3.png">
 <br />
 <br />
 <br />
@@ -324,7 +324,7 @@
 26
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/PRFPJlp.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/PRFPJlp.png">
 <br />
 <br />
 <br />
@@ -338,7 +338,7 @@
 27
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/FLyekhs.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/FLyekhs.png">
 <br />
 <br />
 <br />
@@ -352,7 +352,7 @@
 28
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/CJ67kq8.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/CJ67kq8.png">
 <br />
 <br />
 <br />
@@ -366,7 +366,7 @@
 29
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/ZMLBVIQ.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/ZMLBVIQ.png">
 <br />
 <br />
 <br />
@@ -380,7 +380,7 @@
 30
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/5mrGpfT.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/5mrGpfT.png">
 <br />
 <br />
 <br />
@@ -394,7 +394,7 @@
 31
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/TIc7QMz.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/TIc7QMz.png">
 <br />
 <br />
 <br />
@@ -408,7 +408,7 @@
 32
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/WkxGmR5.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/WkxGmR5.png">
 <br />
 <br />
 <br />
@@ -422,7 +422,7 @@
 33
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/GAopKRF.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/GAopKRF.png">
 <br />
 <br />
 <br />
@@ -436,7 +436,7 @@
 34
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/ANy1fxq.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/ANy1fxq.png">
 <br />
 <br />
 <br />
@@ -450,7 +450,7 @@
 35
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/jqrtDeg.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/jqrtDeg.png">
 <br />
 <br />
 <br />
@@ -464,7 +464,7 @@
 36
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/ZsGpEsM.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/ZsGpEsM.png">
 <br />
 <br />
 <br />
@@ -478,7 +478,7 @@
 37
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/v4ITOE8.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/v4ITOE8.png">
 <br />
 <br />
 <br />
@@ -492,7 +492,7 @@
 38
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/5giynmX.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/5giynmX.png">
 <br />
 <br />
 <br />
@@ -506,7 +506,7 @@
 39
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/tZadfIv.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/tZadfIv.png">
 <br />
 <br />
 <br />
@@ -520,7 +520,7 @@
 40
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/rpRvuq9.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/rpRvuq9.png">
 <br />
 <br />
 <br />
@@ -534,7 +534,7 @@
 41
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/dQBsYJs.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/dQBsYJs.png">
 <br />
 <br />
 <br />
@@ -548,7 +548,7 @@
 42
 <p align="center">
 <br/>
-<img width="410" alt="Portfolio" src="[img]https://i.imgur.com/JdtpUgh.png[/img]">
+<img width="410" alt="Portfolio" src="https://i.imgur.com/JdtpUgh.png">
 <br />
 <br />
 <br />
@@ -562,7 +562,7 @@
 43
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/FGJntVw.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/FGJntVw.png">
 <br />
 <br />
 <br />
@@ -576,7 +576,7 @@
 44
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/i0Kyq9C.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/i0Kyq9C.png">
 <br />
 <br />
 <br />
@@ -590,7 +590,7 @@
 45
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/hbkp0FC.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/hbkp0FC.png">
 <br />
 <br />
 <br />
@@ -604,7 +604,7 @@
 46
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/AAM6qjo.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/AAM6qjo.png">
 <br />
 <br />
 <br />
@@ -618,7 +618,7 @@
 47
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/4GKKOSB.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/4GKKOSB.png">
 <br />
 <br />
 <br />
@@ -632,7 +632,7 @@
 48
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/AK1KKwC.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/AK1KKwC.png">
 <br />
 <br />
 <br />
@@ -646,7 +646,7 @@
 49
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/Xq0tfPR.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/Xq0tfPR.png">
 <br />
 <br />
 <br />
@@ -660,7 +660,7 @@
 50
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/B8JrXoC.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/B8JrXoC.png">
 <br />
 <br />
 <br />
@@ -674,7 +674,7 @@
 51
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/pa01aHy.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/pa01aHy.png">
 <br />
 <br />
 <br />
@@ -688,7 +688,7 @@
 52
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/y3dKgw9.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/y3dKgw9.png">
 <br />
 <br />
 <br />
@@ -702,7 +702,7 @@
 53
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/6opi8vM.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/6opi8vM.png">
 <br />
 <br />
 <br />
@@ -716,7 +716,7 @@
 54
 <p align="center">
 <br/>
-<img width="597" alt="Portfolio" src="[img]https://i.imgur.com/sN5NoVl.png[/img]">
+<img width="597" alt="Portfolio" src="https://i.imgur.com/sN5NoVl.png">
 <br />
 <br />
 <br />
