@@ -242,7 +242,7 @@
 <br />
 <br />
 
- - Edit the default "ORGNAME" organization by clicking on it and selecting "Edit Organization".
+ - Edit the default "ORGNAME" organization (e.g., "Soel_Lab_BlueTeam") by clicking on it and selecting "Edit Organization".
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/HGbQBN3.png">
