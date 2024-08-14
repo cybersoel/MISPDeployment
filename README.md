@@ -263,10 +263,7 @@
 
 
 
-
-
-
-23
+ - Move the new user to the Red Team organization by editing their user profile.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/lwDNBip.png">
@@ -277,10 +274,7 @@
 
 
 
-
-
-
-24
+ - Explore the Dashboard, where you can add widgets to monitor various aspects of the platform.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/f56vsuO.png">
@@ -292,9 +286,7 @@
 
 
 
-
-
-25
+ - First, let's add a widget for MISP workers. Click [Add Widget]. Pick [MISP Workers] and Submit
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/juzItA3.png">
@@ -304,11 +296,7 @@
 <br />
 
 
-
-
-
-
-26
+ - The MISP Workers widget is now added to your dashboard. This widget displays the running processes for the backend, with workers designed for different tasks.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/PRFPJlp.png">
@@ -319,10 +307,7 @@
 
 
 
-
-
-
-27
+ - Add another widget for trending tags, which will be automatically populated when we import intelligence later.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/FLyekhs.png">
@@ -333,10 +318,7 @@
 
 
 
-
-
-
-28
+ - Navigate to Sync Actions - List Feeds.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/CJ67kq8.png">
@@ -346,11 +328,7 @@
 <br />
 
 
-
-
-
-
-29
+ - You should see numerous default feeds. If the list is empty, click "Load default threat feed metadata".
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/ZMLBVIQ.png">
@@ -360,11 +338,7 @@
 <br />
 
 
-
-
-
-
-30
+ - Enable the first five feeds in the list.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/5mrGpfT.png">
@@ -374,11 +348,7 @@
 <br />
 
 
-
-
-
-
-31
+ - Using the down-arrow icon on the right of each feed, pull all events for the first three feeds.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/TIc7QMz.png">
@@ -388,11 +358,7 @@
 <br />
 
 
-
-
-
-
-32
+ - Return to the Dashboard. You should now see three pending jobs. If no workers appear alive in your MISP workers widget, you can initialize them from the VM.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/WkxGmR5.png">
@@ -403,10 +369,7 @@
 
 
 
-
-
-
-33
+ - In the VM terminal, run the command: `sudo -u www.data bash /var/www/MISP/app/Console/worker/start.sh`
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/GAopKRF.png">
@@ -416,11 +379,7 @@
 <br />
 
 
-
-
-
-
-34
+ - You can also manage workers from the web interface under Administration - Server Setting & Maintenance. Your Dashboard should now show workers as alive and processing the events.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/ANy1fxq.png">
@@ -429,12 +388,7 @@
 <br />
 <br />
 
-
-
-
-
-
-35
+ - Go to Event Action - List Event to view the imported intelligence.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/jqrtDeg.png">
@@ -444,11 +398,7 @@
 <br />
 
 
-
-
-
-
-36
+ - Click the eye icon next to an event to view its details.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/ZsGpEsM.png">
@@ -458,11 +408,7 @@
 <br />
 
 
-
-
-
-
-37
+ - Examine a ransomware event. It also shows the publisher (e.g., CIRCL, the developer of MISP) and various assigned tags.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/v4ITOE8.png">
@@ -473,10 +419,7 @@
 
 
 
-
-
-
-38
+ - Scroll to the bottom of the event page to see all types of Indicators of Compromise (IOCs).
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/5giynmX.png">
@@ -487,10 +430,7 @@
 
 
 
-
-
-
-39
+ - Look for external links, such as a VirusTotal link, which may be included in the event.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/tZadfIv.png">
@@ -501,10 +441,7 @@
 
 
 
-
-
-
-40
+ - If available, follow the VirusTotal link to see additional information about the malware.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/rpRvuq9.png">
@@ -515,10 +452,8 @@
 
 
 
+ - Return to the event list and select another example to examine.
 
-
-
-41
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/dQBsYJs.png">
@@ -528,11 +463,7 @@
 <br />
 
 
-
-
-
-
-42
+ - In this new event, you may find numerous MITRE ATT&CK tactics mapped.
 <p align="center">
 <br/>
 <img width="410" alt="Portfolio" src="https://i.imgur.com/JdtpUgh.png">
@@ -543,10 +474,7 @@
 
 
 
-
-
-
-43
+ - Scroll to the bottom of this event to view its associated IOCs.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/FGJntVw.png">
@@ -556,11 +484,8 @@
 <br />
 
 
+ - Return to the top of the event page and click on "Attack Matrix".
 
-
-
-
-44
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/i0Kyq9C.png">
@@ -570,11 +495,7 @@
 <br />
 
 
-
-
-
-
-45
+ - Observe the MITRE ATT&CK matrix showing which tactics have been mapped to this event, allowing you to track the threat actor's activity.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/hbkp0FC.png">
@@ -584,11 +505,8 @@
 <br />
 
 
+ - To add your own event, click "Add Event".
 
-
-
-
-46
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/AAM6qjo.png">
@@ -598,11 +516,7 @@
 <br />
 
 
-
-
-
-
-47
+ - Name the event "APT28 NCSC REPORT", set the Threat Level to "Undefined", and set Distribution to "your organization only". Click submit.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/4GKKOSB.png">
@@ -612,11 +526,7 @@
 <br />
 
 
-
-
-
-
-48
+ - In a new browser tab, navigate to ncsc.gov.uk/news/indicators-of-compromise-for-malware-used-by-apt28
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/AK1KKwC.png">
@@ -627,10 +537,7 @@
 
 
 
-
-
-
-49
+ - Locate and copy the list of IOCs from the NCSC (National Cyber Security Centre) report on APT28.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/Xq0tfPR.png">
@@ -640,11 +547,7 @@
 <br />
 
 
-
-
-
-
-50
+ - Back in MISP, click the freetext import tool within your new event.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/B8JrXoC.png">
@@ -654,11 +557,8 @@
 <br />
 
 
+ - Paste the copied IOCs into the freetext import tool.
 
-
-
-
-51
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/pa01aHy.png">
@@ -668,11 +568,7 @@
 <br />
 
 
-
-
-
-
-52
+ - Verify that all IOCs have the correct Category and Type assigned, then click submit.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/y3dKgw9.png">
@@ -682,11 +578,7 @@
 <br />
 
 
-
-
-
-
-53
+ - The MISP workers will now import these IOCs into the event. This process may take a few minutes.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/6opi8vM.png">
@@ -696,11 +588,7 @@
 <br />
 
 
-
-
-
-
-54
+ - Once complete, you'll see all the IOCs successfully imported and stored within MISP.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/sN5NoVl.png">
@@ -709,9 +597,7 @@
 <br />
 <br />
 
-
-
-55
+ - Enhance the event by adding custom tags to better define it.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/zgC1ueH.png">
@@ -720,8 +606,7 @@
 <br />
 <br />
 
-
-56
+ - Experiment with different tags to categorize and describe the event effectively.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/HkqQWOk.png">
@@ -730,7 +615,7 @@
 <br />
 <br />
 
-57
+ - Return to the Dashboard and observe the Trending Tags widget, which should now display results based on the stored events.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/AxgGNBU.png">
