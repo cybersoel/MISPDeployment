@@ -8,6 +8,13 @@
 </p>
 
 
+This tutorial will guide you through deploying a MISP test environment using Oracle VirtualBox!
+
+<br />
+
+MISP is an open-source threat intelligence platform for sharing, storing, and correlating Indicators of Compromise (IoCs) of targeted attacks, threat intelligence, financial fraud information, vulnerability information, and more.
+
+
 <br />
 <br />
 
