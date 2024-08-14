@@ -56,6 +56,9 @@
 <br />
 
 
+---
+## Importing and Running on VirtualBox 
+
  - Once the download is complete, open Oracle VirtualBox. Go to File > Import Appliance.
 <p align="center">
 <br/>
@@ -98,6 +101,8 @@
 <br />
 <br />
 
+---
+## Initial MISP Configuration
 
  - Log in using the username "misp" and password "Password1234".
 <p align="center">
@@ -164,6 +169,10 @@
 <br />
 
 
+---
+## Accessing MISP Web Interface
+
+
  - On your host machine, open a web browser and navigate to the MISP interface. Log in with admin@admin.test (password: admin). You'll be prompted to change your password.
 <p align="center">
 <br/>
@@ -192,6 +201,8 @@
 <br />
 <br />
 
+---
+## User Management
 
 
  - Go to List Users to see that you're currently the only user.
@@ -230,6 +241,10 @@
 <br />
 <br />
 <br />
+
+---
+## Organization Management
+
 
 
  - Go to [Administration] > [List Organizations] to view existing organizations.
@@ -272,7 +287,8 @@
 <br />
 <br />
 
-
+---
+# Customizing the Dashboard 
 
  - Explore the Dashboard, where you can add widgets to monitor various aspects of the platform.
 <p align="center">
@@ -316,7 +332,8 @@
 <br />
 <br />
 
-
+---
+## Importing Threat Feeds
 
  - Navigate to Sync Actions - List Feeds.
 <p align="center">
@@ -357,6 +374,9 @@
 <br />
 <br />
 
+---
+## Managing MISP Workers 
+
 
  - Return to the Dashboard. You should now see three pending jobs. If no workers appear alive in your MISP workers widget, you can initialize them from the VM.
 <p align="center">
@@ -387,6 +407,12 @@
 <br />
 <br />
 <br />
+
+
+---
+## Exploring Imported Events
+
+
 
  - Go to Event Action - List Event to view the imported intelligence.
 <p align="center">
@@ -451,6 +477,9 @@
 <br />
 
 
+---
+## Analyzing Events with MITRE ATT&CK
+
 
  - Return to the event list and select another example to examine.
 
@@ -503,6 +532,10 @@
 <br />
 <br />
 <br />
+
+---
+## Creating a Custom Event
+
 
 
  - To add your own event, click "Add Event".
@@ -596,6 +629,10 @@
 <br />
 <br />
 <br />
+
+---
+## Tagging and Finalizing
+
 
  - Enhance the event by adding custom tags to better define it.
 <p align="center">
