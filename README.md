@@ -22,7 +22,19 @@
 <a name="toc"></a>
 **Table of Contents:**
 
-- 
+- [Downloading MISP](#downloading-misp)
+- [Importing and Running on VirtualBox](#importing-and-running-on-virtualbox)
+- [Initial MISP Configuration](#initial-misp-configuration)
+- [Accessing MISP Web Interface](#accessing-misp-web-interface)
+- [User Management](#user-management)
+- [Organization Management](#organization-management)
+- [Customizing the Dashboard](#customizing-the-dashboard)
+- [Importing Threat Feeds](#importing-threat-feeds)
+- [Managing MISP Workers](#managing-misp-workers)
+- [Exploring Imported Events](#exploring-imported-events)
+- [Analyzing Events with MITRE ATT&CK](#analyzing-events-with-mitre-att\&ck)
+- [Creating a Custom Event](#creating-a-custom-event)
+- [Tagging and Finalizing](#tagging-and-finalizing)
 
 
 ---
@@ -30,6 +42,8 @@
 <h4>Tip: Any configuration options not mentioned in the walkthrough can be left at their default settings</h4>
 
 ---
+
+[back to top](#toc)
 ## Downloading MISP
 
 <br />
@@ -57,6 +71,8 @@
 
 
 ---
+
+[back to top](#toc)
 ## Importing and Running on VirtualBox 
 
  - Once the download is complete, open Oracle VirtualBox. Go to File > Import Appliance.
@@ -102,6 +118,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## Initial MISP Configuration
 
  - Log in using the username "misp" and password "Password1234".
@@ -170,6 +188,8 @@
 
 
 ---
+
+[back to top](#toc)
 ## Accessing MISP Web Interface
 
 
@@ -202,6 +222,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## User Management
 
 
@@ -243,6 +265,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## Organization Management
 
 
@@ -288,6 +312,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 # Customizing the Dashboard 
 
  - Explore the Dashboard, where you can add widgets to monitor various aspects of the platform.
@@ -333,6 +359,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## Importing Threat Feeds
 
  - Navigate to Sync Actions - List Feeds.
@@ -375,6 +403,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## Managing MISP Workers 
 
 
@@ -410,6 +440,8 @@
 
 
 ---
+
+[back to top](#toc)
 ## Exploring Imported Events
 
 
@@ -478,6 +510,8 @@
 
 
 ---
+
+[back to top](#toc)
 ## Analyzing Events with MITRE ATT&CK
 
 
@@ -534,6 +568,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## Creating a Custom Event
 
 
@@ -631,6 +667,8 @@
 <br />
 
 ---
+
+[back to top](#toc)
 ## Tagging and Finalizing
 
 
