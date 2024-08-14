@@ -32,7 +32,7 @@
 - [Importing Threat Feeds](#importing-threat-feeds)
 - [Managing MISP Workers](#managing-misp-workers)
 - [Exploring Imported Events](#exploring-imported-events)
-- [Analyzing Events with MITRE ATT&CK](#analyzing-events-with-mitre-att\&ck)
+- [Analyzing Events with MITRE ATT&CK](#analyzing-events-with-mitre-att&ck)
 - [Creating a Custom Event](#creating-a-custom-event)
 - [Tagging and Finalizing](#tagging-and-finalizing)
 
