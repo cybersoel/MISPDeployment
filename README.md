@@ -510,10 +510,11 @@
 
 
 ---
+<a name="mitre"></a>
 
 [back to top](#toc)
 ## Analyzing Events with MITRE ATT&CK
-<a name="mitre"></a>
+
 
  - Return to the event list and select another example to examine.
 
