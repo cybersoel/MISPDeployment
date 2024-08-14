@@ -120,7 +120,7 @@
 <br />
 
 
- - nstall the necessary networking tools by running: `sudo apt install net-tools`
+ - Install the necessary networking tools by running: `sudo apt install net-tools`
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/CAVadbX.png">
