@@ -8,11 +8,6 @@
 </p>
 
 
-This tutorial will guide you through deploying a MISP test environment using Oracle VirtualBox!
-
-<br />
-
-MISP is an open-source threat intelligence platform for sharing, storing, and correlating Indicators of Compromise (IoCs) of targeted attacks, threat intelligence, financial fraud information, vulnerability information, and more.
 
 
 <br />
@@ -29,20 +24,19 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 
 - 
 
----
 
 ---
 
 <h4>Tip: Any configuration options not mentioned in the walkthrough can be left at their default settings</h4>
 
 ---
+## Downloading MISP
+
+<br />
+<br />
 
 
-
----
-
-1
-
+ - Navigate to misp-project.org/download/ and scroll down to the "Virtual image for testing" section.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/TuuFlxt.png">
@@ -52,8 +46,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-2
-
+ - Download the latest version of the .ova file. This file contains a pre-configured MISP virtual machine.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/RKkaHrt.png">
@@ -63,8 +56,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-
-3
+ - Once the download is complete, open Oracle VirtualBox. Go to File > Import Appliance.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/IbuzUqA.png">
@@ -76,8 +68,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 
 
 
-
-4
+ - Click "Next" to proceed with the import process.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/CXCXzxO.png">
@@ -87,8 +78,8 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
+ - Leave the default settings as they are and click "Finish" to deploy the virtual machine (VM).
 
-5
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/3kfRRFX.png">
@@ -97,8 +88,8 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 <br />
 
+ - After the import finishes, run the VM.
 
-6
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/iqFVfar.png">
@@ -108,7 +99,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-7
+ - Log in using the username "misp" and password "Password1234".
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/bechinE.png">
@@ -119,7 +110,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 
 
 
-8
+ - Try running the command `ifconfig`. You'll see the message `Command 'ifconfig' not found`
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/RpmtjDV.png">
@@ -129,7 +120,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-9
+ - nstall the necessary networking tools by running: `sudo apt install net-tools`
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/CAVadbX.png">
@@ -140,7 +131,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 
 
 
-10
+ - To ensure your VM has its own unique IP address, go to [Machine] > [Settings] > [Network] and change "Attached to" to "Bridged Adapter".
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/543H3Rm.png">
@@ -150,7 +141,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-11
+ - Restart the VM and run "ifconfig" again. You should now see the VM's unique IP address (e.g., 192.168.1.63).
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/a0l6goP.png">
@@ -161,7 +152,9 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 
 
 
-12
+ - Configure the MISP baseurl to use the VM's IP address: Run `sudo /var/www/MISP/app/Console/cake admin setSetting MISP.baseurl https://[yourIPaddress]`
+ - Verify the configuration: `grep baseurl /var/www/MISP/app/Config/config.php`
+
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/CsRomkV.png">
@@ -171,7 +164,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-13
+ - On your host machine, open a web browser and navigate to the MISP interface. Log in with admin@admin.test (password: admin). You'll be prompted to change your password.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/1rVPuI2.png">
@@ -180,8 +173,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 <br />
 
-
-14
+ - You can now explore the MISP interface.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/5kwVmfM.png">
@@ -191,7 +183,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-15
+ - Verify your baseurl setting in [Server Setting & Maintenance] > [MISP settings]
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/gBn0ECz.png">
@@ -202,9 +194,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 
 
 
-
-
-16
+ - Go to List Users to see that you're currently the only user.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/BDl0CoK.png">
@@ -213,8 +203,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 <br />
 
-
-17
+ - Check your permissions in User settings.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/5pVt6cJ.png">
@@ -224,8 +213,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-
-18
+ - Add a new user: Go to Add User, set up an email and organization, then click Create user.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/31LEZDn.png">
@@ -234,9 +222,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 <br />
 
-
-
-19
+ - Confirm that the new user (e.g., test@test.com) has been added successfully.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/TsoJfsU.png">
@@ -246,9 +232,8 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
+ - Go to [Administration] > [List Organizations] to view existing organizations.
 
-
-20
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/F14h9Au.png">
@@ -257,8 +242,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 <br />
 
-
-21
+ - Edit the default "ORGNAME" organization by clicking on it and selecting "Edit Organization".
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/HGbQBN3.png">
@@ -268,11 +252,7 @@ MISP is an open-source threat intelligence platform for sharing, storing, and co
 <br />
 
 
-
-
-
-
-22
+ - Add a new organization (e.g., "Soel_Lab_RedTeam") for demonstration purposes.
 <p align="center">
 <br/>
 <img width="597" alt="Portfolio" src="https://i.imgur.com/Wbj9MYv.png">
