@@ -1,3 +1,27 @@
+
+
+# MISP: Threat Intelligence Platform Deployment and Management
+
+## Key Learnings and Skills Demonstrated
+
+- **Threat Intelligence Platform Setup**: Demonstrated proficiency in deploying and configuring MISP, a leading open-source threat intelligence platform.
+- **Virtual Machine Management**: Showcased skills in importing and configuring a pre-built virtual machine in VirtualBox.
+- **Network Configuration**: Exhibited expertise in configuring network settings for the MISP instance, including IP address management and web interface access.
+- **User and Organization Management**: Implemented user creation, permission setting, and organization structuring within MISP.
+- **Dashboard Customization**: Demonstrated ability to tailor the MISP dashboard with relevant widgets for efficient threat intelligence monitoring.
+- **Threat Feed Integration**: Successfully imported and managed external threat feeds, showing understanding of threat intelligence sources.
+- **MISP Worker Management**: Configured and managed MISP backend workers, essential for processing and correlating threat data.
+- **Event Analysis**: Showcased skills in exploring and analyzing threat events, including understanding various Indicators of Compromise (IOCs).
+- **MITRE ATT&CK Framework Integration**: Demonstrated understanding of mapping threat events to the MITRE ATT&CK matrix for comprehensive threat analysis.
+- **Custom Event Creation**: Exhibited ability to create and populate custom threat events using real-world data sources.
+- **Data Import Techniques**: Utilized MISP's freetext import tool to efficiently input bulk IOC data.
+- **Tagging and Categorization**: Implemented effective tagging strategies for better organization and retrieval of threat intelligence.
+- **System Administration**: Performed various system administration tasks on both the VM and MISP web interface.
+- **Documentation Skills**: Created detailed, step-by-step documentation of the MISP setup and usage process.
+
+This project simulates the deployment and management of a threat intelligence platform in an enterprise environment. It demonstrates practical skills in threat intelligence management, system administration, and cybersecurity operations. The hands-on experience gained is directly applicable to roles in threat intelligence analysis, security operations, and cybersecurity management.
+
+
 <h1 align="center">Summary Diagram</h1>
 
 
